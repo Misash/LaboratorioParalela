@@ -1,0 +1,3 @@
+/home/misash/UCSP 2/paralela/LaboratorioParalela/cmake-build-debug/CMakeFiles/paralela.dir
+/home/misash/UCSP 2/paralela/LaboratorioParalela/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/misash/UCSP 2/paralela/LaboratorioParalela/cmake-build-debug/CMakeFiles/rebuild_cache.dir

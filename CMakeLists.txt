@@ -4,7 +4,7 @@ project(paralela)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(paralela
-        Pthreads/matrix-vector.cpp
+        Pthreads/matrizVector/matrix-vector.cpp
         mpi/main.cpp
         mpi/mult.cpp
         mpi/oddEvenSort.cpp

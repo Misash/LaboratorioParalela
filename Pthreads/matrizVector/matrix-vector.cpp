@@ -7,6 +7,7 @@
 #include <pthread.h>
 #include "timer.h"
 
+//  g++ matrix-vector.cpp -o matrix-vector -lpthread
 // usar: ./matrix-vector <cantidad de theads> <m> <n>
 
 
